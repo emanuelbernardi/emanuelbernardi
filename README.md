@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Front-end and Back-end
 - 🌱 I’m currently learning Python, HTML, CSS and Java-Script.
 - 📫 How to reach me: emanuel.aobernardi@gmail.com
-- 😄 Pronouns: he / him
+- ---
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=emanuelbernardi&show_icons=true&theme=midnight-purple" alt="emanuelbernardi's stats"/>
